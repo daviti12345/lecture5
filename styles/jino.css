@@ -1,0 +1,85 @@
+header {
+	margin-top: 54px;
+	margin-left: 63px;
+	margin-bottom: 85px;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 60px;
+}
+li {
+	display: inline-block;
+	color: #8D81FF;
+	font-size: 26px;
+	font-weight: 700;
+	word-wrap: break-word;
+	margin-right: 81px;
+}
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+.active {
+	color: #4E6FAE;
+}
+h3 {
+	display: inline-block;
+	color: #4E6FAE;
+    font-size: 36px;
+    font-family: Helvetica Neue;
+    margin-bottom: 27px;
+    font-weight: 700;
+    word-wrap: break-word
+}
+h1 {
+	display: inline-block;
+	color: #7E8898;
+    font-size: 20px;
+    font-family: Helvetica Neue LT GEO;
+    font-weight: 400;
+    margin-bottom: 18px;
+    word-wrap: break-word
+}
+p {
+	display: inline-block;
+	color: #3F4145;
+    color: #3F4145;
+    font-size: 20px;
+    font-family: Helvetica Neue LT GEO;
+    font-weight: 400;
+    word-wrap: break-word
+}
+.mydiv1 {
+	background-color: #E7E7E7;
+}
+.mydiv {
+	margin-left: 70px;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+	padding-top: 60px;
+}
+.jorj {
+	display: inline-block;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	margin-right: 5px;
+	margin-left: 40px;
+
+}
+
+
+.facebook {
+	margin-right: 41px;
+	margin-top: 104px;
+
+}
+
+.line {
+	margin-right: 41px;
+}
+.jora {
+	margin-bottom: 180px;
+	margin-left: 96px;
+
